@@ -1,6 +1,6 @@
 <div id="header" align="center">
+   <h1>Hi There, I'm Faith!</h1>
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
-  <h1>Hi There, I'm Faith!</h1>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/faithyeenxin/">

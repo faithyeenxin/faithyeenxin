@@ -27,6 +27,8 @@ I am a Full Stack Developer from Singapore.<img src="https://media.giphy.com/med
 
 - :seedling: I love learning and I am currently working on improving my second project named FridgeDaddy!
 
+ #### Feel free to check out project's I've completed by clicking on my repository and filtering for :star: STAR-ED :star_struck: repos!
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -58,5 +60,5 @@ I am a Full Stack Developer from Singapore.<img src="https://media.giphy.com/med
  <img src="https://img.shields.io/badge/GitHub-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>  <img src="https://img.shields.io/badge/Render-orange?style=for-the-badge&logo=render&logoColor=white" alt="Render Badge"/> <img src="https://img.shields.io/badge/Cyclic-ff69b4?style=for-the-badge&logo=cyclic&logoColor=white" alt="Cyclic Badge"/> 
  
  
-
  
+

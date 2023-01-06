@@ -27,8 +27,7 @@ I am a Full Stack Developer from Singapore.<img src="https://media.giphy.com/med
 
 - :seedling: I love learning and I am currently working on improving my second project named FridgeDaddy!
 
- #### Feel free to check out project's I've completed by clicking on my repository and filtering for :star: STAR-ED :star_struck: repos!
-
+ #### Feel free to check out my projects down below!
 ---
 
 ### :hammer_and_wrench: Languages and Tools :

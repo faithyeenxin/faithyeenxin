@@ -23,7 +23,7 @@ I am a Full Stack Developer from Singapore.<img src="https://media.giphy.com/med
 
 - :1234: I'm a mid-career switcher previously in the accounting feild.
 
-- :zap: During my free time, I solve problems on Leetcode and watching tech related videos.
+- :zap: During my free time, I solve problems on Leetcode and watch tech related videos.
 
 - :seedling: I love learning and I am currently working on improving my second project named FridgeDaddy!
 

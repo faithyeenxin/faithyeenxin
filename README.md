@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/faithyeenxin/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-  <a href="your-linkedin-URL">
+  <a href="https://drive.google.com/file/d/1kUkl8l1afxVG1is28GFnLgDnLTg-xCA2/view?usp=sharing">
   <img src="https://img.shields.io/badge/Resume-red?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Youtube Badge"/>
     </a>
   <a href="your-linkedin-URL">

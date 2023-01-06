@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/RESUME-pink?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Resume Badge"/>
     </a>
   <a href="mailto:faith.ye@hotmail.com">
-  <img src="https://img.shields.io/badge/Email Me-yellow?style=for-the-badge&logo=twitter&logoColor=white" alt="Email Badge"/>
+  <img src="https://img.shields.io/badge/Email Me-yellow?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
     </a>
 </div>
 

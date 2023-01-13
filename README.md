@@ -35,29 +35,39 @@ I am a Full Stack Developer from Singapore.<img src="https://media.giphy.com/med
 #### Languages: 
 
 
- <img src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript Badge"/> <img src="https://img.shields.io/badge/Javascript-important?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript Badge"/> <img src="https://img.shields.io/badge/Python-lightblue?style=for-the-badge&logo=javascript&logoColor=white" alt="Python Badge"/>
+
+<img src="https://img.shields.io/badge/Javascript-important?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript Badge"/> <img src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript Badge"/> <img src="https://img.shields.io/badge/Python-lightblue?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+
+
+#### Server/Runtime:
+
+
+<img src="https://img.shields.io/badge/Node.JS-yellow?style=for-the-badge&logo=nodejs&logoColor=white" alt="Node.js Badge"/>
+
+
+
+ 
+#### Front-End Frameworks & Libraries:
+
+
+
+<img src="https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/> <img src="https://img.shields.io/badge/Material UI-success?style=for-the-badge&logo=mui&logoColor=white" alt="MUI Badge"/> <img src="https://img.shields.io/badge/Tailwind CSS-informational?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS Badge"/> <img src="https://img.shields.io/badge/Bootstrap-brightgreen?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/> <img src="https://img.shields.io/badge/Redux Toolkit-yellow?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Badge"/> <img src="https://img.shields.io/badge/Axios-ff69b4?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Badge"/>     
+
+
+
+
+#### Back-End Frameworks, Databases & Libraries:
+
+
+
+<img src="https://img.shields.io/badge/Express-blueviolet?style=for-the-badge&logo=express&logoColor=white" alt="Express Badge"/> <img src="https://img.shields.io/badge/MONGODB-ff69b4?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/> <img src="https://img.shields.io/badge/Mongoose-success?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongoose Badge"/> <img src="https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/> <img src="https://img.shields.io/badge/Prisma-orange?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma Badge"/> <img src="https://img.shields.io/badge/AirTable-lightgrey?style=for-the-badge&logo=airtable&logoColor=white" alt="AirTable Badge"/> <img src="https://img.shields.io/badge/AWS S3 Buckets-informational?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Badge"/> <img src="https://img.shields.io/badge/AWS RDS-informational?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Badge"/>
  
  
-#### Full Stack Technologies:
+  
+#### Hosting Libraries & Sites: 
  
  
- <img src="https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>  <img src="https://img.shields.io/badge/Node.JS-yellow?style=for-the-badge&logo=nodejs&logoColor=white" alt="Node.js Badge"/> <img src="https://img.shields.io/badge/Express-blueviolet?style=for-the-badge&logo=express&logoColor=white" alt="Express Badge"/> <img src="https://img.shields.io/badge/MONGODB-ff69b4?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/> <img src="https://img.shields.io/badge/Mongoose-success?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongoose Badge"/> <img src="https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/> <img src="https://img.shields.io/badge/Prisma-orange?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma Badge"/> <img src="https://img.shields.io/badge/AirTable-lightgrey?style=for-the-badge&logo=airtable&logoColor=white" alt="AirTable Badge"/> <img src="https://img.shields.io/badge/TurboRepo-yellowgreen?style=for-the-badge&logo=turborepo&logoColor=white" alt="TurboRepo Badge"/>
- 
- 
-#### UI Languages/Libraries:
- 
- 
- <img src="https://img.shields.io/badge/HTML5-important?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/> <img src="https://img.shields.io/badge/CSS3-yellowgreen?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/> <img src="https://img.shields.io/badge/Material UI-critical?style=for-the-badge&logo=mui&logoColor=white" alt="MUI Badge"/> <img src="https://img.shields.io/badge/Tailwind CSS-9cf?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS Badge"/> <img src="https://img.shields.io/badge/Bootstrap-brightgreen?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/> 
- 
- 
- 
- 
-#### Hosting Sites: 
- 
- 
- 
- <img src="https://img.shields.io/badge/GitHub-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>  <img src="https://img.shields.io/badge/Render-orange?style=for-the-badge&logo=render&logoColor=white" alt="Render Badge"/> <img src="https://img.shields.io/badge/Cyclic-ff69b4?style=for-the-badge&logo=cyclic&logoColor=white" alt="Cyclic Badge"/> 
- 
+<img src="https://img.shields.io/badge/TurboRepo-yellowgreen?style=for-the-badge&logo=turborepo&logoColor=white" alt="TurboRepo Badge"/> <img src="https://img.shields.io/badge/GitHub-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>  <img src="https://img.shields.io/badge/Render-orange?style=for-the-badge&logo=render&logoColor=white" alt="Render Badge"/> <img src="https://img.shields.io/badge/Cyclic-ff69b4?style=for-the-badge&logo=cyclic&logoColor=white" alt="Cyclic Badge"/> <img src="https://img.shields.io/badge/Vercel-informational?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Badge"/> 
  
  
 

@@ -27,7 +27,48 @@ I am a Full Stack Developer from Singapore.<img src="https://media.giphy.com/med
 
 - :seedling: I love learning and I am currently working on improving my second project named FridgeDaddy!
 
- #### Feel free to check out my projects down below!
+
+### :nerd_face: Check Out my recent work:
+All projects are hosted on free sites - loading times may be slower than usual, please be patient :confounded:
+
+
+
+<a href="https://fridge-daddy.onrender.com/">FridgeDaddy -Juiced Up (in progress)</a><br>
+A minimalistic and responsive fridge inventory website that tracks food items and it's remaining shelf life through real time day countdown.<br>
+Tech Stack: HTML, CSS, Typescript, ReactJS, Tailwind, Redux Toolkit, Axios, Prisma, Postgres, Spoonacular API, AWS S3, database hosted on AWS RDS.
+
+
+
+<a href="https://fridge-daddy.vercel.app/">FridgeDaddy -Humble Beginnings</a><br>
+Prior to having the beautiful website above, Fridge Daddy came from humble begginings when Faith was newly introduced to software development. 
+Since then, she has improved and picked up new libraries which thus birthed the magnificent website above(FridgeDaddy -Juiced Up).<br>
+Tech Stack: HTML, CSS, Javascript, ReactJS, Material UI, Axios, Airtable API, Spoonacular API
+
+
+<a href="https://wedeal.onrender.com/">weDeal</a><br>
+A website built for the discount addicts to connect and seek the latest deals together. <br>
+Tech Stack: HTML5, CSS3, Typescript, PERN hosted on AWS server, Material UI, Formik & Yup, Redux Toolkit Query, Google API, images hosted on Cloudinary <br>
+(you're welcome to use our existing account to get a feel of how our website works: 
+username: admin123, password: Password123!)
+
+
+<a href="https://idealify.vercel.app/">IDealify</a> <br>
+A website built for the discount addicts to connect and seek the latest deals together <br>
+Tech Stack: HTML5, CSS3, Typescript, PERN hosted on AWS server, Material UI, Formik & Yup, Redux Toolkit Query, Google API, images hosted on Cloudinary<br>
+(you're welcome to use our existing account to get a feel of how our website works: 
+Interior Designer - username: admin123, password: password123
+Homeowner - username: petertan, password: 456)
+
+
+
+
+<a href="https://wordle-mu-flax.vercel.app/">Wordle</a><br>
+My take on the viral NY Times game!
+Tech Stack: HTML, CSS & Javascript (jQuery + AJAX)
+
+
+
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :

@@ -53,7 +53,7 @@ username: admin123, password: Password123!)
 
 
 <a href="https://idealify.vercel.app/">IDealify</a> <br>
-A website built for the discount addicts to connect and seek the latest deals together <br>
+Teamed up with 2 other skilled aspiring software engineers to create a website which centralises project management tracking between Interior Designers and Homeowners.<br>
 Tech Stack: HTML5, CSS3, Typescript, PERN hosted on AWS server, Material UI, Formik & Yup, Redux Toolkit Query, Google API, images hosted on Cloudinary<br>
 (you're welcome to use our existing account to get a feel of how our website works: 
 Interior Designer - username: admin123, password: password123

@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/faithyeenxin/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-  <a href="https://drive.google.com/file/d/1kUkl8l1afxVG1is28GFnLgDnLTg-xCA2/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1gHhOjAuvHSZSWD3OWa2S0MfsPyLl_20W/view?usp=sharing">
   <img src="https://img.shields.io/badge/RESUME-pink?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Resume Badge"/>
     </a>
   <a href="mailto:faith.ye@hotmail.com">
@@ -45,6 +45,7 @@ Since then, she has improved and picked up new libraries which thus birthed the 
 Tech Stack: HTML, CSS, Javascript, ReactJS, Material UI, Axios, Airtable API, Spoonacular API
 
 
+
 <a href="https://wedeal.onrender.com/">weDeal</a><br>
 A website built for the discount addicts to connect and seek the latest deals together. <br>
 Tech Stack: HTML5, CSS3, Typescript, PERN hosted on AWS server, Material UI, Formik & Yup, Redux Toolkit Query, Google API, images hosted on Cloudinary <br>
@@ -52,13 +53,10 @@ Tech Stack: HTML5, CSS3, Typescript, PERN hosted on AWS server, Material UI, For
 username: admin123, password: Password123!)
 
 
+
 <a href="https://idealify.vercel.app/">IDealify</a> <br>
 Teamed up with 2 other skilled aspiring software engineers to create a website which centralises project management tracking between Interior Designers and Homeowners.<br>
-Tech Stack: HTML5, CSS3, Typescript, PERN hosted on AWS server, Material UI, Formik & Yup, Redux Toolkit Query, Google API, images hosted on Cloudinary<br>
-(you're welcome to use our existing account to get a feel of how our website works: 
-Interior Designer - username: admin123, password: password123
-Homeowner - username: petertan, password: 456)
-
+Tech Stack: HTML5, CSS3, Typescript, MERN, Material UI, Formik & Yup, images hosted on Cloudinary<br>
 
 
 

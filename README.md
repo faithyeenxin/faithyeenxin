@@ -106,7 +106,7 @@ Tech Stack: HTML, CSS & Javascript (jQuery + AJAX)
 #### Hosting Libraries & Sites: 
  
  
-<img src="https://img.shields.io/badge/TurboRepo-yellowgreen?style=for-the-badge&logo=turborepo&logoColor=white" alt="TurboRepo Badge"/> <img src="https://img.shields.io/badge/GitHub-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>  <img src="https://img.shields.io/badge/Render-orange?style=for-the-badge&logo=render&logoColor=white" alt="Render Badge"/> <img src="https://img.shields.io/badge/Cyclic-ff69b4?style=for-the-badge&logo=cyclic&logoColor=white" alt="Cyclic Badge"/> <img src="https://img.shields.io/badge/Vercel-informational?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Badge"/> 
+<img src="https://img.shields.io/badge/TurboRepo-yellowgreen?style=for-the-badge&logo=turborepo&logoColor=white" alt="TurboRepo Badge"/> <img src="https://img.shields.io/badge/GitHub-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>  <img src="https://img.shields.io/badge/Render-orange?style=for-the-badge&logo=render&logoColor=white" alt="Render Badge"/> <img src="https://img.shields.io/badge/Cyclic-ff69b4?style=for-the-badge&logo=cyclic&logoColor=white" alt="Cyclic Badge"/> <img src="https://img.shields.io/badge/Vercel-informational?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Badge"/>  <img src="https://img.shields.io/badge/Docker-lightblue?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>  
  
  
 

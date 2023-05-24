@@ -35,7 +35,7 @@ All projects are hosted on free sites - loading times may be slower than usual, 
 
 <a href="https://fridge-daddy-juiced-up.onrender.com/">FridgeDaddy -Juiced Up (in progress)</a><br>
 A minimalistic and responsive fridge inventory website that tracks food items and it's remaining shelf life through real time day countdown.<br>
-Tech Stack: HTML, CSS, Typescript, ReactJS, Tailwind, Redux Toolkit, Axios, Prisma, Postgres, Spoonacular API, AWS S3, database hosted on AWS RDS.
+Tech Stack: HTML, CSS, Typescript, ReactJS, Tailwind, Redux Toolkit, Axios, Prisma, Postgres, Spoonacular API, Docker, Docker Images hosted on AWS ECS, images hosted on AWS S3, database hosted on AWS RDS.
 
 
 
@@ -99,7 +99,7 @@ Tech Stack: HTML, CSS & Javascript (jQuery + AJAX)
 
 
 
-<img src="https://img.shields.io/badge/Express-blueviolet?style=for-the-badge&logo=express&logoColor=white" alt="Express Badge"/> <img src="https://img.shields.io/badge/MONGODB-ff69b4?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/> <img src="https://img.shields.io/badge/Mongoose-success?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongoose Badge"/> <img src="https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/> <img src="https://img.shields.io/badge/Prisma-orange?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma Badge"/> <img src="https://img.shields.io/badge/AirTable-lightgrey?style=for-the-badge&logo=airtable&logoColor=white" alt="AirTable Badge"/> <img src="https://img.shields.io/badge/AWS S3 Buckets-informational?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Badge"/> <img src="https://img.shields.io/badge/AWS RDS-informational?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Badge"/>
+<img src="https://img.shields.io/badge/Express-blueviolet?style=for-the-badge&logo=express&logoColor=white" alt="Express Badge"/> <img src="https://img.shields.io/badge/MONGODB-ff69b4?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/> <img src="https://img.shields.io/badge/Mongoose-success?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongoose Badge"/> <img src="https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/> <img src="https://img.shields.io/badge/Prisma-orange?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma Badge"/> <img src="https://img.shields.io/badge/AirTable-lightgrey?style=for-the-badge&logo=airtable&logoColor=white" alt="AirTable Badge"/> <img src="https://img.shields.io/badge/AWS S3 Buckets-informational?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Badge"/> <img src="https://img.shields.io/badge/AWS RDS-informational?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Badge"/> <img src="https://img.shields.io/badge/AWS ECS-informational?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Badge"/>
  
  
   

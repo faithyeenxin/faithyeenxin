@@ -33,7 +33,7 @@ All projects are hosted on free sites - loading times may be slower than usual, 
 
 
 
-<a href="http://www.byfaithx.com:3500">FridgeDaddy -Juiced Up (in progress)</a><br>
+<a href="http://fridgedaddy.byfaithx.com:3500/">FridgeDaddy -Juiced Up (in progress)</a><br>
 A minimalistic and responsive fridge inventory website that tracks food items and it's remaining shelf life through real time day countdown.<br>
 Tech Stack: HTML, CSS, Typescript, ReactJS, Tailwind, Redux Toolkit, Axios, Prisma, Postgres, Spoonacular API, Docker, Docker images hosted on AWS ECS, images hosted on AWS S3, database hosted on AWS RDS.
 

@@ -46,7 +46,7 @@ Tech Stack: HTML, CSS, Javascript, ReactJS, Material UI, Axios, Airtable API, Sp
 
 
 
-<a href="https://wedeal.onrender.com/">weDeal</a><br>
+<a href="https://wedeal.byfaithx.com/">weDeal</a><br>
 A website built for the discount addicts to connect and seek the latest deals together. <br>
 Tech Stack: HTML5, CSS3, Typescript, PERN hosted on AWS server, Material UI, Formik & Yup, Redux Toolkit Query, Google API, images hosted on Cloudinary <br>
 (you're welcome to use our existing account to get a feel of how our website works: 

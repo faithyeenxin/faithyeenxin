@@ -29,7 +29,8 @@ I am a Full Stack Developer from Singapore.<img src="https://media.giphy.com/med
 
 
 ### :nerd_face: Check Out my recent work:
-All projects are hosted on free sites - loading times may be slower than usual, please be patient :confounded:
+Some projects are hosted on free sites - loading times may be slower than usual, please be patient :confounded:
+For those on byfaithx.com, they're docker images hosted on AWS ECS and ECR with AWS EC2 Load balancers to help with internal port redirection! 
 
 
 

@@ -33,7 +33,9 @@ Some projects are hosted on free sites - loading times may be slower than usual,
 
 For those on byfaithx.com, they're docker images hosted on AWS ECS and ECR with AWS EC2 Load balancers to help with internal port redirection! 
 
-
+<a href="https://www.figma.com/proto/j09pnwQwUVOGlSBaVrnunS/nommies?page-id=0%3A1&type=design&node-id=1-144&viewport=1200%2C843%2C0.59&scaling=scale-down&starting-point-node-id=3%3A12">Nommies</a><br>
+A react native foodlog application - it keeps track of what you eat through images with many more motivation functionalities!
+this project is still in it's design stage, follow my figma link and this page for further updates!
 
 <a href="http://fridgedaddy.byfaithx.com/">FridgeDaddy -Juiced Up (in progress)</a><br>
 A minimalistic and responsive fridge inventory website that tracks food items and it's remaining shelf life through real time day countdown.<br>

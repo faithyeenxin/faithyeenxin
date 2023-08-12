@@ -37,7 +37,7 @@ For those on byfaithx.com, they're docker images hosted on AWS ECS and ECR with 
 A react native foodlog application - it keeps track of what you eat through images with many more motivation functionalities!
 this project is still in it's design stage, follow my figma link and this page for further updates!
 
-<a href="http://fridgedaddy.byfaithx.com/">FridgeDaddy -Juiced Up</a><br>
+<a href="https://fridgedaddy.byfaithx.com/">FridgeDaddy -Juiced Up</a><br>
 A minimalistic and responsive fridge inventory website that tracks food items and it's remaining shelf life through real time day countdown.<br>
 Tech Stack: HTML, CSS, Typescript, ReactJS, Tailwind, Redux Toolkit, Axios, Prisma, Postgres, Spoonacular API, Docker, Docker images hosted on AWS ECS, images hosted on AWS S3, database hosted on AWS RDS.
 
@@ -50,7 +50,7 @@ Tech Stack: HTML, CSS, Javascript, ReactJS, Material UI, Axios, Airtable API, Sp
 
 
 
-<a href="http://wedeal.byfaithx.com/">weDeal</a><br>
+<a href="https://wedeal.byfaithx.com/">weDeal</a><br>
 A website built for the discount addicts to connect and seek the latest deals together. <br>
 Tech Stack: HTML5, CSS3, Typescript, PERN hosted on AWS server, Material UI, Formik & Yup, Redux Toolkit Query, Google API, images hosted on Cloudinary <br>
 (you're welcome to use our existing account to get a feel of how our website works: 

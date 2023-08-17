@@ -31,7 +31,13 @@ I am a Full Stack Developer from Singapore.<img src="https://media.giphy.com/med
 ### :nerd_face: Check Out my recent work:
 Some projects are hosted on free sites - loading times may be slower than usual, please be patient :confounded:
 
-For those on byfaithx.com, they're docker images hosted on AWS ECS and ECR with AWS EC2 Load balancers to help with internal port redirection! 
+<a href="https://bookingbuddie.byfaithx.com/">Booking Buddie (in progress)</a><br>
+Introducing Booking Buddie: Your business's online upgrade. 
+Get ready for an impressive website that showcases your services and packages, along with a user-friendly booking system. 
+Clients can now book directly and buy packages securely, with a hassle-free payment process including deposits upon confirmation. Plus, gain valuable insights into sales and user activity through detailed analytics. As your dedicated professional, I'm committed to creating a standout website that takes your business higher. 
+Remember, this is just a mockup – the real deal is on the way. 
+If other businesses are interested in a similar website, feel free to contact me for your own customized version!
+Tech Stack: Next.js 13, Typescript, Tailwind, Supabase, Stripe, Resend, Vercel
 
 <a href="https://www.figma.com/proto/j09pnwQwUVOGlSBaVrnunS/nommies?page-id=0%3A1&type=design&node-id=1-144&viewport=1200%2C843%2C0.59&scaling=scale-down&starting-point-node-id=3%3A12">Nommies (in progress)</a><br>
 A react native foodlog application - it keeps track of what you eat through images with many more motivation functionalities!

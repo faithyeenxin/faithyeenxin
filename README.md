@@ -36,6 +36,7 @@ Introducing Booking Buddie: Your ultimate online business enhancement.
 Prepare for an impressive website spotlighting your diverse services and packages, boasting a user-friendly booking system. Seamlessly allow clients to book appointments and securely purchase packages, featuring a smooth payment process with deposits upon confirmation. 
 Uncover invaluable insights into your sales and user engagement through detailed analytics. 
 As your devoted professional, I've nurtured this concept from design inception to robust front-end and back-end development. Witness your business soar with a standout website. Remember, this is just a preview – the final product is en route. If fellow businesses seek a comparable online presence, whether for beauty services or any industry, don't hesitate to connect with me for a tailor-made version! 
+
 Tech Stack: Next.js 13, Typescript, Tailwind, Supabase, Stripe, Resend, Vercel
 
 <a href="https://www.figma.com/proto/j09pnwQwUVOGlSBaVrnunS/nommies?page-id=0%3A1&type=design&node-id=1-144&viewport=1200%2C843%2C0.59&scaling=scale-down&starting-point-node-id=3%3A12">Nommies (in progress)</a><br>

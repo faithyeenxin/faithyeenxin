@@ -37,11 +37,13 @@ Prepare for an impressive website spotlighting your diverse services and package
 Uncover invaluable insights into your sales and user engagement through detailed analytics. 
 As your devoted professional, I've nurtured this concept from design inception to robust front-end and back-end development. Witness your business soar with a standout website. Remember, this is just a preview – the final product is en route. If fellow businesses seek a comparable online presence, whether for beauty services or any industry, don't hesitate to connect with me for a tailor-made version! 
 
-Tech Stack: Next.js 13, Typescript, Tailwind, Supabase, Stripe, Resend, Vercel
+:computer: Tech Stack: Next.js 13, Typescript, Tailwind, Supabase, Stripe, Resend, Vercel
 
 <a href="https://www.figma.com/proto/j09pnwQwUVOGlSBaVrnunS/nommies?page-id=0%3A1&type=design&node-id=1-144&viewport=1200%2C843%2C0.59&scaling=scale-down&starting-point-node-id=3%3A12">Nommies (in progress)</a><br>
 A react native foodlog application - it keeps track of what you eat through images with many more motivation functionalities!
 this project is still in it's design stage, follow my figma link and this page for further updates!
+
+:computer: Tech Stack: React Native, Django
 
 <a href="https://fridgedaddy.byfaithx.com/">FridgeDaddy -Juiced Up</a><br>
 A minimalistic and responsive fridge inventory website that tracks food items and it's remaining shelf life through real time day countdown.<br>
@@ -52,13 +54,15 @@ Tech Stack: HTML, CSS, Typescript, ReactJS, Tailwind, Redux Toolkit, Axios, Pris
 <a href="https://fridge-daddy.vercel.app/">FridgeDaddy -Humble Beginnings</a><br>
 Prior to having the beautiful website above, Fridge Daddy came from humble begginings when Faith was newly introduced to software development. 
 Since then, she has improved and picked up new libraries which thus birthed the magnificent website above(FridgeDaddy -Juiced Up).<br>
-Tech Stack: HTML, CSS, Javascript, ReactJS, Material UI, Axios, Airtable API, Spoonacular API
+
+:computer: Tech Stack: HTML, CSS, Javascript, ReactJS, Material UI, Axios, Airtable API, Spoonacular API
 
 
 
 <a href="https://wedeal.byfaithx.com/">weDeal</a><br>
 A website built for the discount addicts to connect and seek the latest deals together. <br>
-Tech Stack: HTML5, CSS3, Typescript, PERN hosted on AWS server, Material UI, Formik & Yup, Redux Toolkit Query, Google API, images hosted on Cloudinary <br>
+
+:computer: Tech Stack: HTML5, CSS3, Typescript, PERN hosted on AWS server, Material UI, Formik & Yup, Redux Toolkit Query, Google API, images hosted on Cloudinary <br>
 (you're welcome to use our existing account to get a feel of how our website works: 
 username: admin123, password: Password123!)
 
@@ -66,13 +70,15 @@ username: admin123, password: Password123!)
 
 <a href="https://idealify.vercel.app/">IDealify</a> <br>
 Teamed up with 2 other skilled aspiring software engineers to create a website which centralises project management tracking between Interior Designers and Homeowners.<br>
-Tech Stack: HTML5, CSS3, Typescript, MERN, Material UI, Formik & Yup, images hosted on Cloudinary<br>
+
+:computer: Tech Stack: HTML5, CSS3, Typescript, MERN, Material UI, Formik & Yup, images hosted on Cloudinary<br>
 
 
 
 <a href="https://wordle-mu-flax.vercel.app/">Wordle</a><br>
 My take on the viral NY Times game!
-Tech Stack: HTML, CSS & Javascript (jQuery + AJAX)
+
+:computer: Tech Stack: HTML, CSS & Javascript (jQuery + AJAX)
 
 
 

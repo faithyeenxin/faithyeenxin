@@ -40,10 +40,10 @@ As your devoted professional, I've nurtured this concept from design inception t
 :computer: Tech Stack: Next.js 13, Typescript, Tailwind, Supabase, Stripe, Resend, Vercel
 
 <a href="https://www.figma.com/proto/j09pnwQwUVOGlSBaVrnunS/nommies?page-id=0%3A1&type=design&node-id=1-144&viewport=1200%2C843%2C0.59&scaling=scale-down&starting-point-node-id=3%3A12">Nommies (in progress)</a><br>
-A react native foodlog application - it keeps track of what you eat through images with many more motivation functionalities!
-this project is still in it's design stage, follow my figma link and this page for further updates!
-
-:computer: Tech Stack: React Native, Django
+An AI powered foodlog application - it keeps track of what you eat through images with many more motivation functionalities!
+This project is still in it's infant stage! :baby:
+Working on this with 2 other skillful engineers for backend and machine learning functionalities.
+:computer: Tech Stack: React Native, React Native Elements, Google and Apple Auth, Python and Django Backend and Machine Learning. 
 
 <a href="https://fridgedaddy.byfaithx.com/">FridgeDaddy -Juiced Up</a><br>
 A minimalistic and responsive fridge inventory website that tracks food items and it's remaining shelf life through real time day countdown.<br>

@@ -47,7 +47,7 @@ this project is still in it's design stage, follow my figma link and this page f
 
 <a href="https://fridgedaddy.byfaithx.com/">FridgeDaddy -Juiced Up</a><br>
 A minimalistic and responsive fridge inventory website that tracks food items and it's remaining shelf life through real time day countdown.<br>
-Tech Stack: HTML, CSS, Typescript, ReactJS, Tailwind, Redux Toolkit, Axios, Prisma, Postgres, Spoonacular API, Docker, Docker images hosted on AWS ECS, images hosted on AWS S3, database hosted on AWS RDS.
+:computer: Tech Stack: HTML, CSS, Typescript, ReactJS, Tailwind, Redux Toolkit, Axios, Prisma, Postgres, Spoonacular API, Docker, Docker images hosted on AWS ECS, images hosted on AWS S3, database hosted on AWS RDS.
 
 
 

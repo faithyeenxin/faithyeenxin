@@ -33,9 +33,7 @@ Some projects are hosted on free sites - loading times may be slower than usual,
 
 <a href="https://bookingbuddie.byfaithx.com/">Booking Buddie (in progress)</a><br>
 Introducing Booking Buddie: Your ultimate online business enhancement. 
-Prepare for an impressive website spotlighting your diverse services and packages, boasting a user-friendly booking system. Seamlessly allow clients to book appointments and securely purchase packages, featuring a smooth payment process with deposits upon confirmation. 
-Uncover invaluable insights into your sales and user engagement through detailed analytics. 
-As your devoted professional, I've nurtured this concept from design inception to robust front-end and back-end development. Witness your business soar with a standout website. Remember, this is just a preview – the final product is en route. If fellow businesses seek a comparable online presence, whether for beauty services or any industry, don't hesitate to connect with me for a tailor-made version! 
+Elevate your business with a captivating website showcasing services, packages, and an intuitive booking system. Seamlessly connect with clients, monitor sales analytics, and anticipate a tailored online presence. Reach out now to unlock a future-proof digital solution for businesses across various industries.
 
 :computer: Tech Stack: Next.js 13, Typescript, Tailwind, Supabase, Stripe, Resend, Vercel
 

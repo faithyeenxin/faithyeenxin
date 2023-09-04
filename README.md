@@ -31,8 +31,8 @@ I am a Full Stack Developer from Singapore.<img src="https://media.giphy.com/med
 ### :nerd_face: Check Out my recent work:
 Some projects are hosted on free sites - loading times may be slower than usual, please be patient :confounded:
 
-<a href="https://bookingbuddie.byfaithx.com/">Booking Buddie (in progress)</a><br>
-Introducing Booking Buddie: Your ultimate online business enhancement. 
+<a href="https://opulent.byfaithx.com/">Opulent Lash (in progress)</a><br>
+Introducing Opulent Lash: A integrated booking web mock up of a website for a client. 
 Elevate your business with a captivating website showcasing services, packages, and an intuitive booking system. Seamlessly connect with clients, monitor sales analytics, and anticipate a tailored online presence. Reach out now to unlock a future-proof digital solution for businesses across various industries.
 
 :computer: Tech Stack: Next.js 13, Typescript, Tailwind, Supabase, Stripe, Resend, Vercel

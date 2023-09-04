@@ -32,8 +32,11 @@ I am a Full Stack Developer from Singapore.<img src="https://media.giphy.com/med
 Some projects are hosted on free sites - loading times may be slower than usual, please be patient :confounded:
 
 <a href="https://opulent.byfaithx.com/">Opulent Lash (in progress)</a><br>
-Introducing Opulent Lash: A integrated booking web mock up of a website for a client. 
-Elevate your business with a captivating website showcasing services, packages, and an intuitive booking system. Seamlessly connect with clients, monitor sales analytics, and anticipate a tailored online presence. Reach out now to unlock a future-proof digital solution for businesses across various industries.
+Introducing Opulent Lash: A mock up of an integrated booking web application -requested by client.
+However feel free to reach out if you'd like a similar digital solution for your business!
+Aimed to elevate your business with a captivating website showcasing services, packages, and an intuitive booking system. 
+Seamlessly connect with clients, monitor sales analytics, and anticipate a tailored online presence.
+Birthed from scratch from design (Figma) to code.
 
 :computer: Tech Stack: Next.js 13, Typescript, Tailwind, Supabase, Stripe, Resend, Vercel
 

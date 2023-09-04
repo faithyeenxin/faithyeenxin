@@ -36,8 +36,9 @@ Introducing Opulent Lash: A mock up of an integrated booking web application -re
 However feel free to reach out if you'd like a similar digital solution for your business!
 Aimed to elevate your business with a captivating website showcasing services, packages, and an intuitive booking system. 
 Seamlessly connect with clients, monitor sales analytics, and anticipate a tailored online presence.
-Birthed from scratch from design (Figma) to code.
+Birthed from scratch from design to code.
 
+<a href="https://www.figma.com/file/JJYYP3JcI2cDh3vrmXIZE4/Opulent-Lash?type=design&node-id=0%3A1&mode=design&t=4oo8FARFfm9FcrOy-1">Opulent Figma</a><br>
 :computer: Tech Stack: Next.js 13, Typescript, Tailwind, Supabase, Stripe, Resend, Vercel
 
 <a href="https://www.figma.com/proto/j09pnwQwUVOGlSBaVrnunS/nommies?page-id=0%3A1&type=design&node-id=1-144&viewport=1200%2C843%2C0.59&scaling=scale-down&starting-point-node-id=3%3A12">Nommies (in progress)</a><br>

@@ -96,7 +96,8 @@ My take on the viral NY Times game!
 
 
 
-<img src="https://img.shields.io/badge/Javascript-important?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript Badge"/> <img src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript Badge"/> <img src="https://img.shields.io/badge/Python-lightblue?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+<img src="https://img.shields.io/badge/Javascript-important?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript Badge"/> <img src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript Badge"/> <img src="https://img.shields.io/badge/Python-lightblue?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>  <img src="https://img.shields.io/badge/Dart-darkblue?style=for-the-badge&logo=dart&logoColor=white" alt="Dart Badge"/>
+
 
 
 #### Server/Runtime:
@@ -110,9 +111,12 @@ My take on the viral NY Times game!
 #### Front-End Frameworks & Libraries:
 
 
-
 <img src="https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white" alt="ReactJS Badge"/> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS Badge"/> <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="ThreeJS Badge"/> <img src="https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge" alt="WebGL Badge"/> <img src="https://img.shields.io/badge/React Router-critical?style=for-the-badge&logo=reactrouter&logoColor=white" alt="React Router Badge"/> <img src="https://img.shields.io/badge/Material UI-success?style=for-the-badge&logo=mui&logoColor=white" alt="MUI Badge"/> <img src="https://img.shields.io/badge/Tailwind CSS-informational?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS Badge"/> <img src="https://img.shields.io/badge/Bootstrap-brightgreen?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/> <img src="https://img.shields.io/badge/Redux Toolkit-yellow?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Badge"/> <img src="https://img.shields.io/badge/Axios-ff69b4?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Badge"/>     
 
+#### Front-End Mobile Frameworks & Libraries:
+
+
+ <img src="https://img.shields.io/badge/React Native-lightblue?style=for-the-badge&logo=react&logoColor=white" alt="React Native Badge"/> <img src="https://img.shields.io/badge/Flutter-darkblue?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge"/>     
 
 
 

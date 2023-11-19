@@ -54,8 +54,6 @@ A minimalistic and responsive fridge inventory website that tracks food items an
 
 :computer: Tech Stack: HTML, CSS, Typescript, ReactJS, Tailwind, Redux Toolkit, Axios, Prisma, Postgres, Spoonacular API, Docker, Docker images hosted on AWS ECS, images hosted on AWS S3, database hosted on AWS RDS.
 
-
-
 <a href="https://fridge-daddy.vercel.app/">FridgeDaddy -Humble Beginnings</a><br>
 Prior to having the beautiful website above, Fridge Daddy came from humble begginings when Faith was newly introduced to software development. 
 Since then, she has improved and picked up new libraries which thus birthed the magnificent website above(FridgeDaddy -Juiced Up).<br>
@@ -71,7 +69,7 @@ A website built for the discount addicts to connect and seek the latest deals to
 (you're welcome to use our existing account to get a feel of how our website works: 
 username: admin123, password: Password123!)
 
-
+View my design on [Figma](https://www.figma.com/file/aLhrXTlhAcTYHMRlhS6chd/weDeal?type=design&node-id=0%3A1&mode=design&t=VUiTOJ1uSbW7lu5P-1)!
 
 <a href="https://idealify.vercel.app/">IDealify</a> <br>
 Teamed up with 2 other skilled aspiring software engineers to create a website which centralises project management tracking between Interior Designers and Homeowners.<br>

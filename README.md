@@ -25,7 +25,7 @@ I am a Full Stack Developer from Singapore.<img src="https://media.giphy.com/med
 
 - :zap: During my free time, I solve problems on Leetcode and watch tech related videos.
 
-- :seedling: I love learning and I am currently working on improving my second project named FridgeDaddy!
+- :seedling: I love learning and I am always birthing new projects to fix needs or just to learn a new stack!
 
 
 ### :nerd_face: Check Out my recent work:

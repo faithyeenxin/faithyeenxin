@@ -31,8 +31,8 @@ I am a Full Stack Developer from Singapore.<img src="https://media.giphy.com/med
 ### :nerd_face: Check Out my recent work:
 Some projects are hosted on free sites - loading times may be slower than usual, please be patient :confounded:
 
-<a href="https://notes-hubbie.byfaithx.com/">Notes Hubbie (in progress)</a><br>
-Notes Hub was born out of my quest to study Data Structures and Algorithms (DSA) efficiently for interviews. Initially, I stored my notes and relevant question links in readmes, but as the volume of information grew, I realized their limitations. This realization led me to conceive a dedicated project, Notes Hubbie, specifically designed to streamline the storage and organization of my DSA notes. The primary goal was to create a centralized space for easy access to these vital resources. However, as the project took shape, I saw its potential to transcend its original purpose. It dawned on me that this hub could become more than just a DSA repository—it could evolve into a versatile platform capable of housing notes on diverse subjects. Thus, what started as a solution for managing DSA study materials organically transformed into a flexible repository capable of accommodating notes spanning a wide range of interests and topics, offering structured accessibility and fostering growth across various fields.
+<a href="https://dubbie.byfaithx.com/">Dubbie (in progress)</a><br>
+Dubbie was born out of my quest to study Data Structures and Algorithms (DSA) efficiently for interviews. Initially, I stored my notes and relevant question links in readmes, but as the volume of information grew, I realized their limitations. This realization led me to conceive a dedicated project, Dubbie, specifically designed to streamline the storage and organization of my DSA notes. The primary goal was to create a centralized space for easy access to these vital resources.
 
 :computer: Tech Stack: Next.js 13, Typescript, Material UI, Strapi CMS
 

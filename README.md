@@ -6,9 +6,7 @@
   <a href="https://www.linkedin.com/in/faithyeenxin/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-  <a href="https://www.figma.com/proto/LBPvnaVKV1rVTbT6X0vV0M/resume?page-id=0%3A1&type=design&node-id=1-4&viewport=242%2C412%2C0.65&t=5DIykLBJ1r04FBgy-1&scaling=min-zoom&mode=design">
-  <img src="https://img.shields.io/badge/RESUME-pink?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Resume Badge"/>
-    </a>
+
   <a href="mailto:faith.ye@hotmail.com">
   <img src="https://img.shields.io/badge/Email Me-yellow?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
     </a>

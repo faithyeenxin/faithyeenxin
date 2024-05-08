@@ -29,12 +29,12 @@ I am a Full Stack Developer from Singapore.<img src="https://media.giphy.com/med
 ### :nerd_face: Check Out my recent work:
 Some projects are hosted on free sites - loading times may be slower than usual, please be patient :confounded:
 
-<a href="https://jbaby.byfaithx.com/">Javascript Baby!</a><br>
+<a href="https://coderbaby.byfaithx.com/">Coder Baby!</a><br>
 A notes application made for software engineering bootcamp students! :baby:
 <br/>  During my time assisting multiple cohorts at General Assembly, I observed a common challenge: many students felt overwhelmed in the initial stages, particularly with grasping the fundamentals of JavaScript—an essential skill for tackling interview questions on platforms like LeetCode.
 
 
-Recognizing this need, I've created a website that distills the essentials required to kickstart your journey on LeetCode and ace those technical interviews!
+Recognizing this need, I've created a website that distills the essentials required to kickstart your journey on LeetCode and ace those technical interviews (AND MORE)!
 
 :computer: Tech Stack: Javascript + Docusaurus
 

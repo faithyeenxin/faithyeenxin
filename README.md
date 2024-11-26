@@ -29,17 +29,21 @@ I am a Full Stack Developer from Singapore.<img src="https://media.giphy.com/med
 ### :nerd_face: Check Out my recent work:
 Some projects are hosted on free sites - loading times may be slower than usual, please be patient :confounded:
 
-<a href="https://coderbaby.byfaithx.com/">Coder Baby!</a><br>
-A notes application made for software engineering bootcamp students! :baby:
-<br/>  During my time assisting multiple cohorts at General Assembly, I observed a common challenge: many students felt overwhelmed in the initial stages, particularly with grasping the fundamentals of JavaScript—an essential skill for tackling interview questions on platforms like LeetCode.
+<a href="">LandedElite (in progress)</a><br>
+Developed a modern website with a user-friendly CMS for a high-performing property agency team, working directly with the Director. Managed the entire project lifecycle, including gathering business requirements, designing mockups in Figma, and implementing a responsive front-end and CMS. <br/>
+Targetted to be completed by Jan 2025.
 
+:computer: Tech Stack: Next.js 13, Typescript, Tailwind, Strapi CMS 
 
-Recognizing this need, I've created a website that distills the essentials required to kickstart your journey on LeetCode and ace those technical interviews (AND MORE)!
+<a href="https://front-end-client-fawn.vercel.app/">Battybrats (in progress)</a><br>
+Engaged to create a multiple users and providers platform booking and scheduling website for a client.
+Completed project aimed to have Paynow Payments to avoid transaction fees.
+Due to changing business requirements application is still a work-in-progress. <br/>
+Targetted to be completed by Mid 2025.
 
-:computer: Tech Stack: Javascript + Docusaurus
+:computer: Tech Stack: Next.js 13, Typescript, Tailwind, Supabase, Stripe, Resend, Vercel
 
-
-<a href="https://opulent.byfaithx.com/">Opulent Lash (in progress)</a><br>
+<a href="https://opulent.byfaithx.com/">Opulent Lash</a><br>
 Introducing Opulent Lash: A mock up of an integrated booking web application -requested by client.
 However feel free to reach out if you'd like a similar digital solution for your business!
 Aimed to elevate your business with a captivating website showcasing services, packages, and an intuitive booking system. 
@@ -57,6 +61,14 @@ This project is still in it's infant stage! :baby:
 
 :computer: Tech Stack: React Native, React Native Elements, Google and Apple Auth, Python and Django Backend and Machine Learning. 
 
+<a href="https://coderbaby.byfaithx.com/">Coder Baby!</a><br>
+A notes application made for software engineering bootcamp students! :baby:
+<br/>  During my time assisting multiple cohorts at General Assembly, I observed a common challenge: many students felt overwhelmed in the initial stages, particularly with grasping the fundamentals of JavaScript—an essential skill for tackling interview questions on platforms like LeetCode.
+
+Recognizing this need, I've created a website that distills the essentials required to kickstart your journey on LeetCode and ace those technical interviews (AND MORE)!
+
+:computer: Tech Stack: Javascript + Docusaurus
+
 <a href="https://fridgedaddy.byfaithx.com/">FridgeDaddy -Juiced Up</a><br>
 A minimalistic and responsive fridge inventory website that tracks food items and it's remaining shelf life through real time day countdown.<br>
 
@@ -67,8 +79,6 @@ Prior to having the beautiful website above, Fridge Daddy came from humble beggi
 Since then, she has improved and picked up new libraries which thus birthed the magnificent website above(FridgeDaddy -Juiced Up).<br>
 
 :computer: Tech Stack: HTML, CSS, Javascript, ReactJS, Material UI, Axios, Airtable API, Spoonacular API
-
-
 
 <a href="https://wedeal.byfaithx.com/">weDeal</a><br>
 A website built for the discount addicts to connect and seek the latest deals together. <br>
@@ -102,7 +112,7 @@ My take on the viral NY Times game!
 
 
 
-<img src="https://img.shields.io/badge/Javascript-important?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript Badge"/> <img src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript Badge"/> <img src="https://img.shields.io/badge/Python-lightblue?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>  <img src="https://img.shields.io/badge/Dart-darkblue?style=for-the-badge&logo=dart&logoColor=white" alt="Dart Badge"/>
+<img src="https://img.shields.io/badge/Javascript-important?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript Badge"/> <img src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript Badge"/> <img src="https://img.shields.io/badge/Python-lightblue?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>  <img src="https://img.shields.io/badge/Dart-darkblue?style=for-the-badge&logo=dart&logoColor=white" alt="Dart Badge"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge"/>
 
 
 

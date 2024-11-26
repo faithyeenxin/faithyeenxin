@@ -83,7 +83,7 @@ Since then, she has improved and picked up new libraries which thus birthed the 
 <a href="https://wedeal.byfaithx.com/">weDeal</a><br>
 A website built for the discount addicts to connect and seek the latest deals together. <br>
 
-:computer: Tech Stack: HTML5, CSS3, Typescript, PERN hosted on AWS server, Material UI, Formik & Yup, Redux Toolkit Query, Google API, images hosted on Cloudinary <br>
+:computer: Tech Stack: HTML5, CSS3, Typescript, PERN hosted on AWS server, Material UI, Formik & Yup, Redux Toolkit Query, Google API, images hosted on Cloudinary, Database using NeonTech <br>
 (you're welcome to use our existing account to get a feel of how our website works: 
 username: admin123, password: Password123!)
 
